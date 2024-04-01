@@ -1,3 +1,4 @@
+-- menggunakan database berikut drive.google.com/file/d/12UXIwE01Zz05wlZvzUJtD5Ho6sTURJ8S/view?usp=drive_link (student_performance)
 CREATE DATABASE student;
 SELECT * FROM students_performance; -- check table import 
 
